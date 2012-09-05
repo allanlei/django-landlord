@@ -1,1 +1,0 @@
-# python manage.py landlord "syncdb --database" --tenant example.com
